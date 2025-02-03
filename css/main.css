@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+
+.multicolor-text {
+  display: inline-block;
+  background: linear-gradient(to left, blue, green);
+  background-clip: text;
+  color: transparent;
+}

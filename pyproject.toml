@@ -1,0 +1,9 @@
+[project]
+name = "test-webapp"
+version = "0.1.0"
+description = "Test Webapp"
+readme = "README.md"
+requires-python = ">=3.11.10"
+dependencies = [
+    "python-fasthtml>=0.12.1",
+]
