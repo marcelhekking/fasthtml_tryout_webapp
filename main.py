@@ -13,7 +13,7 @@ def get(fname: str, ext: str):
 
 @rt("/")
 def get():
-    return fh.Div(fh.H1("Hello World!", cls="multicolor-text text-[50px]"))
+    return fh.Div(fh.H1("Hello World! (from Github)", cls="multicolor-text text-[50px]"))
 
 
 fh.serve()
