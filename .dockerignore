@@ -1,0 +1,46 @@
+# Python and others
+__pycache__/
+.mypy_cache/
+*.pyc
+.DS_Store
+*.swp
+/venv/
+/.venv/
+.venv/
+/tmp/
+/.vagrant/
+/Vagrantfile.local
+node_modules/
+/npm-debug.log
+/.idea/
+.vscode
+coverage
+.python-version
+
+# Ditribution / packaging / version control
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+.git/
+.github/
+
+
+# other
+.azure
+.dockerignore
+.gitignore
+
